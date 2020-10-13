@@ -17,23 +17,28 @@ At the time of writing I am working on the following personal projects
 * [sugarfox.ru](https://github.com/SugarF0x/sugarfox)
         - my personal web page that is more of a sandbox if anything
         where i put newly aquired skills to practice
-* [Simple Assistant](https://github.com/SugarF0x/simple-assistant)
-        - An automation plugin for browser game SimpleMMO
 * [Raider](https://github.com/SugarF0x/raider)
         - An attempt at recreating **Dungeon Raid**, an old smartphone game,
         using canvas (also learning canvas here, namely - konva.js)
 * A freelance contract for a master-class web page
 
+I am currently open for commissions.
+Contact me at [sugarfox.dev@gmail.com](mailto:sugarfox.dev@gmail.com).
+One thing to point out beforehand - I am not a designer, but a developper.
+I can make things work, but I dont guarantee a next-gen look of it,
+unless you provide me with design.
+
 ## My Stack
 
-There are technologies I am most comfortable with but not limited to:
+Currently I am learning **React**, though I would not put it as my headliner _yet_.
+These are the technologies I am most comfortable with, _but not limited to_:
 
 ### Front-end
 
 * Vue
     * Vue Router
     * Vuex
-* Nuxt **(main focus)**
+* Nuxt
     * SSR
     * Auth
     * Content
