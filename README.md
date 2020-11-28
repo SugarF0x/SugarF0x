@@ -14,19 +14,17 @@ web dev projects and my part-time job (also being in web dev).
 At the time of writing I am working on the following personal projects
 (unrelated to employment):
 
-* [sugarfox.ru](https://github.com/SugarF0x/sugarfox)
-        - my personal web page that is more of a sandbox if anything
-        where i put newly aquired skills to practice
 * [Raider](https://github.com/SugarF0x/raider)
-        - An attempt at recreating **Dungeon Raid**, an old smartphone game,
+        - An attempt at recreating an old smartphone game **Dungeon Raid**
         using canvas (also learning canvas here, namely - konva.js)
-* A freelance contract for a master-class web page
 
 I am currently open for commissions.
 Contact me at [sugarfox.dev@gmail.com](mailto:sugarfox.dev@gmail.com).
 One thing to point out beforehand - I am not a designer, but a developper.
 I can make things work, but I dont guarantee a next-gen look of it,
 unless you provide me with design.
+
+You can get acquainted with my projects in the [archives](https://archive.sugarfox.ru).
 
 ## My Stack
 
