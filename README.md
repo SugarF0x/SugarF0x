@@ -93,3 +93,5 @@ This list is subject to change.
 * :art: Style - Style changes, no new functionality
 * :pill: Testing - Completion and maintenance of test units
 * :construction: WIP - A stepping stone for a Work in Progress change
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z72XA7P)
