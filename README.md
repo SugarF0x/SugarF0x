@@ -45,6 +45,12 @@ These are the technologies I am most comfortable with, _but not limited to_:
 * UI Frameworks
     * Vuetify
     * Bootstrap
+* i18next
+    * vue-i18next
+    * nuxt-i18next
+* React (not quite as good as Vue but i dabble)
+    * Router
+    * Redux
     
 ### Back-end
 
@@ -58,6 +64,7 @@ These are the technologies I am most comfortable with, _but not limited to_:
     * Mongoose
 * Nginx
     * Reverse proxy
+* Google Analytics
 
 ### Dev Environment
 
@@ -65,7 +72,8 @@ These are the technologies I am most comfortable with, _but not limited to_:
 * Typescript
 * Jest
 * JsDoc
-* Preprocessor LESS
+* HTML preprocessor Pug (Jade)
+* CSS preprocessor SASS/LESS
 * HTTPS SSL
 
 ## Commit syntax 
