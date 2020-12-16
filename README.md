@@ -20,10 +20,6 @@ At the time of writing I am working on the following personal projects
 
 I am currently open for commissions.
 Contact me at [sugarfox.dev@gmail.com](mailto:sugarfox.dev@gmail.com).
-One thing to point out beforehand - I am not a designer, but a developper.
-I can make things work, but I dont guarantee a next-gen look of it,
-unless you provide me with design.
-
 You can get acquainted with my projects in the [archives](https://archive.sugarfox.ru).
 
 ## My Stack
