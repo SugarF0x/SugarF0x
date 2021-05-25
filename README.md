@@ -1,76 +1,35 @@
 # Alex <Sugar_F0x>
 
 Welcome to my profile page. My name is **Alex** (a.k.a. **Sugar_F0x**),
-I am a _21 y.o. self-taught full-stack web-developer_ with just about
-over 3 years experience since the day i first googled
+I am a _22 y.o. self-taught full-stack web-developer_ with just about
+over 4 years experience since the day i first googled
 _'how to make web sites'_.
 
-Currently, I am a senior student at a state university
-unrelated to IT, but most of my free time goes to my personal
-web dev projects and my part-time job (also being in web dev).
+Currently I am a full-time frontend developer, though I do take commissions during free time
+apart from working in my own pet-projects.
 
 ## My current projects
 
-At the time of writing I am working on the following personal projects
-(unrelated to employment):
+I am currently doing several projects and thus am closed for commissions.
 
+Some of said projects are:
 * [Raider](https://github.com/SugarF0x/raider)
-        - An attempt at recreating an old smartphone game **Dungeon Raid**
-        using canvas (also learning canvas here, namely - konva.js)
+  - An attempt at recreating an old smartphone game **Dungeon Raid**
+  using canvas (also learning canvas here, namely - konva.js)
+* A commissioned local community district web hub (extended forum)
+* A commissioned themed webpage (extended blog)
 
-I am currently open for commissions.
-Contact me at [sugarfox.dev@gmail.com](mailto:sugarfox.dev@gmail.com).
+Nevertheless, feel free to ontact me at [sugarfox.dev@gmail.com](mailto:sugarfox.dev@gmail.com).
 You can get acquainted with my projects in the [archives](https://archive.sugarfox.ru).
 
 ## My Stack
 
-Currently I am learning **React**, though I would not put it as my headliner _yet_.
-These are the technologies I am most comfortable with, _but not limited to_:
+My main stack sually consists of Vue with Nuxt & Composition API module (excited for Nuxt 3),
+though I do have a year of commertial React experience. Can't say that I really loke one more
+than the other - both React and Vue have their own cases where they shine brightest.
 
-### Front-end
-
-* Vue
-    * Vue Router
-    * Vuex
-* Nuxt
-    * SSR
-    * Auth
-    * Content
-    * Axios
-    * PWA
-* UI Frameworks
-    * Vuetify
-    * Bootstrap
-* i18next
-    * vue-i18next
-    * nuxt-i18next
-* React (not quite as good as Vue but i dabble)
-    * Router
-    * Redux
-    
-### Back-end
-
-* Node.js
-    * Express
-        * Middlewares
-        * Router
-    * JWT
-    * Cookies
-* MongoDB
-    * Mongoose
-* Nginx
-    * Reverse proxy
-* Google Analytics
-
-### Dev Environment
-
-* Webpack
-* Typescript
-* Jest
-* JsDoc
-* HTML preprocessor Pug (Jade)
-* CSS preprocessor SASS/LESS
-* HTTPS SSL
+Apart from frontend I can also do backend with Node, Express and MongoDB.
+However, I do usually opt for Strapi as my backend solution.
 
 ## Commit syntax 
 
