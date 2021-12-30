@@ -1,9 +1,10 @@
 # Alex <Sugar_F0x>
 
 Welcome to my profile page. My name is **Alex** (a.k.a. **Sugar_F0x**),
-I am a _22 y.o. front-end developer_ dabbling in back-end.
+I am a _TypeScript_ developper, specializing in front-end and React Native,
+however I am no stranger to node backend.
 
-Currently I am a full-time frontend developer, though I do take commissions during free time
+Currently I am a full-time React Native engineer, though I do take commissions during free time
 apart from working in my own pet-projects.
 
 ## My current projects
@@ -16,9 +17,7 @@ are quire outdated now. My latest repositories are of better display.
 
 ## My Stack
 
-My main stack sually consists of Vue with Nuxt & Composition API module (excited for Nuxt 3),
-though I do have a year of commertial React experience. Can't say that I really like one more
-than the other - both React and Vue have their own cases where they shine brightest.
-
-Apart from frontend I can also do backend with Node, Express and MongoDB.
-However, I do usually opt for Strapi as my backend solution.
+My main stack usually consists of TypeScript Vue with Nuxt & Composition API module (Nuxt 3 still needs more time IMHO),
+when I need something relatively simple setup fast. For larger projects I would rather opt for React with Next.
+In regards of native mobile development, I cant yet say I'm confident enough in my React Native skills to have any
+reasonable pooinion, but I'm well on my way.
