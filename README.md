@@ -1,4 +1,4 @@
-# Alex <Sugar_F0x>
+# Alex <Sugar_F0x> Tuzov
 
 Welcome to my profile page. My name is **Alex** (a.k.a. **Sugar_F0x**),
 I am a _TypeScript_ developper, specializing in front-end and React Native,
