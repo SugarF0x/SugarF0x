@@ -26,4 +26,4 @@ do give them a look, should you be interested.
 My main stack usually consists of TypeScript Vue with Nuxt & Composition API module (Nuxt 3 still needs more time IMHO),
 when I need something relatively simple setup fast. For larger projects I would rather opt for React with Next.
 In regards of native mobile development, I cant yet say I'm confident enough in my React Native skills to have any
-reasonable pooinion, but I'm well on my way.
+reasonable opinion, but I'm well on my way.
