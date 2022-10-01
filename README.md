@@ -23,3 +23,5 @@ I like trains
  /-OO----OO""="OO--OO"="OO--------OO"="OO-------OO"="OO-------OO"=P
 #####################################################################
 ```
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SugarF0x&theme=dark)](https://git.io/streak-stats)
