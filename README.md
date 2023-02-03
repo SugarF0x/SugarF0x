@@ -1,7 +1,7 @@
 # Alex <Sugar_F0x> Tuzov
 
 Hi! My name is **Alex** (a.k.a. **Sugar_F0x**),
-I am a _TypeScript_ developper, doing a little bit of everything, including but not limited to frontend, backend and mobile
+I am a _TypeScript_ developer, doing a little bit of everything, including but not limited to frontend, backend and mobile
 
 Currently I am a full-time full-stack React Native engineer at [Five Lives](https://fivelives.health)
 
